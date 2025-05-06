@@ -4,7 +4,7 @@ int main(){
 
 //  Declaração de variáveis. Necessário para a execução do programa  
 
-char letra[1];
+char letra[5];
 char nome[5];
 char cidade [30];
 int populacao;
@@ -12,7 +12,7 @@ float area;
 float pib;
 int pontos;
 
-char letra2[1];
+char letra2[5];
 char nome2[5];
 char cidade2 [30];
 int populacao2;
